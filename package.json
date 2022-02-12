@@ -24,7 +24,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "express": "^4.17.1",
     "flatpickr": "^4.6.3"
   }
