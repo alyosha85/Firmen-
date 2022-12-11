@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "ajv": "^6.10.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "flatpickr": "^4.6.3"
   }
 }
